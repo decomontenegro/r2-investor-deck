@@ -1,4 +1,4 @@
-# R² | Engineering Real Estate Alpha
+# R2 | Engineering Real Estate Alpha
 
 > AI-Powered Asymmetric Opportunity Engine for US Real Estate
 
@@ -6,7 +6,7 @@
 
 ## Overview
 
-R² is a proprietary AI-powered platform that identifies mispriced real estate opportunities in the US market. Focusing on tax deeds, foreclosures, and off-market properties, R² has consistently delivered alpha since 2017.
+R2 is a proprietary AI-powered platform that identifies mispriced real estate opportunities in the US market. Focusing on tax deeds, foreclosures, and off-market properties, R2 has consistently delivered alpha since 2017.
 
 ## Key Metrics
 
@@ -46,4 +46,4 @@ R² is a proprietary AI-powered platform that identifies mispriced real estate o
 
 ---
 
-*Confidential Presentation - R² Tech 2026*
+*Confidential Presentation - R2 Tech 2026*
